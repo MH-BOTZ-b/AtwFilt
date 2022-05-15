@@ -57,7 +57,7 @@
 
 ###  𝗗𝗲𝗽𝗹𝗼𝘆
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mh-botz-b/AtwFilt)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mh-botz-b/AtwFilt/tree#main)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/4RhY8v?referralCode=ODrggs)
 
